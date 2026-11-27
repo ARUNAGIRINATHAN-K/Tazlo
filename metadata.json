@@ -1,0 +1,6 @@
+{
+  "name": "TAZLO — The Heritage Messenger",
+  "description": "Handcrafted full-grain vegetable-tanned leather messenger bag by TAZLO. Crafted by hand. Made to last.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
