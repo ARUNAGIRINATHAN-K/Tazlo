@@ -4,6 +4,9 @@
 
 TAZLO is a premium handmade leather goods brand focused on timeless design, quality craftsmanship, and durable everyday essentials.
 
+[![TAZLO](TAZLO.png)](https://tazlo.vercel.app/)
+
+
 ## Features
 
 - Premium editorial-style product page
